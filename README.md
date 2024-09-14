@@ -1,7 +1,8 @@
-Unveiling-E-Commerce-Trends-A-Comprehensive-Analysis-of-Customer-and-Product-Interactions
+# Unveiling-E-Commerce-Trends-A-Comprehensive-Analysis-of-Customer-and-Product-Interactions
+
 This Group project involves a detailed analysis of an e-commerce dataset to uncover key insights into consumer behavior, product pricing strategies, and the effectiveness of marketing efforts. By exploring relationships between customer demographics, purchasing patterns, and order values, the project aims to provide data-driven recommendations that will inform strategic decisions in pricing, marketing, and customer engagement. The ultimate goal is to enhance profitability and optimize business operations within the digital marketplace.
 
-Acknowledgment:-
+# Acknowledgment:-
 
 We would like to express our gratitude to the following individuals and sources for their contributions to this project:
 
@@ -27,8 +28,6 @@ To analyze shipping preferences by subscription levels and their impact on satis
 
 Project Group Members:-
 
-Akanksha Sharma - 045006
-
-Mehak Bhardwaj - 045031
-
-Nihaal Patel - 045035
+# Akanksha Sharma - 045006
+# Mehak Bhardwaj - 045031
+# Nihaal Patel - 045035
