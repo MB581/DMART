@@ -26,8 +26,7 @@ To determine how payment methods affect order completion, cancellations, and ret
 
 To analyze shipping preferences by subscription levels and their impact on satisfaction and order completion.
 
-Project Group Members:-
-
+# Project Group Members:-
 # Akanksha Sharma - 045006
 # Mehak Bhardwaj - 045031
 # Nihaal Patel - 045035
